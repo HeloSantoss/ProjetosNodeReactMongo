@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'; // Importa o React e os hooks useState e useEffect
 import axios from 'axios'; // Importa a biblioteca axios para fazer requisições HTTP
 import { useParams, useNavigate } from 'react-router-dom'; // Importa useParams para obter parâmetros da URL e useNavigate para navegação programática
+import '../App.css';
 
 
 function EditarLivro() {
