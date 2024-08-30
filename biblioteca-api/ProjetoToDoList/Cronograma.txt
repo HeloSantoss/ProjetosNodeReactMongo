@@ -1,0 +1,56 @@
+# Cronograma do Projeto Web de To-Do List
+
+Este cronograma cobre o desenvolvimento de um projeto web de To-Do List. O projeto está dividido em várias fases com marcos e datas específicas.
+
+## Fases do Projeto
+
+| **Fase**                    | **Tarefa**                                               | **Data de Início** | **Data de Término** | **Status**    |
+|-----------------------------|----------------------------------------------------------|--------------------|---------------------|---------------|
+| **Planejamento**            | Definir requisitos e objetivos SMART                     | 01/09/2024         | 03/09/2024          | Concluído     |
+| **Design da Interface**     | Criar wireframes e design da interface do usuário         | 04/09/2024         | 10/09/2024          | Em andamento  |
+| **Desenvolvimento da UI**   | Implementar a interface com funcionalidades básicas      | 11/09/2024         | 25/09/2024          | Pendente      |
+| **Funcionalidades**         | Adicionar, editar, excluir e marcar tarefas              | 26/09/2024         | 10/10/2024          | Pendente      |
+| **Persistência de Dados**   | Implementar armazenamento de dados (Local Storage, etc.)  | 11/10/2024         | 17/10/2024          | Pendente      |
+| **Testes e Depuração**      | Realizar testes manuais e automatizados                  | 18/10/2024         | 31/10/2024          | Pendente      |
+| **Lançamento Beta**         | Lançar versão beta e coletar feedback                     | 01/11/2024         | 07/11/2024          | Pendente      |
+| **Ajustes Finais**          | Implementar melhorias com base no feedback               | 08/11/2024         | 14/11/2024          | Pendente      |
+| **Lançamento Final**        | Preparar e lançar a versão final da aplicação             | 15/11/2024         | 17/11/2024          | Pendente      |
+
+## Detalhes das Tarefas
+
+### Planejamento
+- **Objetivo:** Definir claramente os requisitos e objetivos do projeto.
+- **Atividades:** Reuniões de brainstorming, definição de escopo, criação de objetivos SMART.
+
+### Design da Interface
+- **Objetivo:** Criar um design visual e wireframes para a aplicação.
+- **Atividades:** Desenho de wireframes, seleção de paleta de cores, design de layout.
+
+### Desenvolvimento da UI
+- **Objetivo:** Implementar a interface do usuário com funcionalidades básicas.
+- **Atividades:** Codificação de componentes da interface, integração com bibliotecas de UI.
+
+### Funcionalidades
+- **Objetivo:** Adicionar funcionalidades principais de gerenciamento de tarefas.
+- **Atividades:** Desenvolvimento das funções de adicionar, editar, excluir e marcar tarefas.
+
+### Persistência de Dados
+- **Objetivo:** Implementar a funcionalidade para salvar e recuperar tarefas.
+- **Atividades:** Codificação da lógica de persistência usando Local Storage ou banco de dados.
+
+### Testes e Depuração
+- **Objetivo:** Garantir que a aplicação funcione corretamente e esteja livre de bugs.
+- **Atividades:** Execução de testes, correção de bugs, realização de testes de usabilidade.
+
+### Lançamento Beta
+- **Objetivo:** Lançar a versão beta da aplicação para feedback dos usuários.
+- **Atividades:** Distribuição da versão beta, coleta e análise de feedback dos usuários.
+
+### Ajustes Finais
+- **Objetivo:** Implementar melhorias e ajustes finais com base no feedback.
+- **Atividades:** Atualizações de código, refinamento de funcionalidades, ajustes de design.
+
+### Lançamento Final
+- **Objetivo:** Lançar a versão final da aplicação ao público.
+- **Atividades:** Preparação para o lançamento, divulgação, lançamento da aplicação.
+

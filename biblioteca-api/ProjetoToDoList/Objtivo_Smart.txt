@@ -1,0 +1,42 @@
+# Objetivos SMART para o Projeto Web de To-Do List
+
+## Objetivo 1: Interface do Usuário
+
+- **Específico:** Criar uma interface de usuário intuitiva para a lista de tarefas, incluindo funcionalidades como adicionar, editar e excluir tarefas.
+- **Mensurável:** Ter uma interface com pelo menos 3 funcionalidades principais (adicionar, editar e excluir) e com uma taxa de satisfação de usuário de 80% em testes de usabilidade.
+- **Atingível:** Utilizar um framework de front-end como React ou Vue.js para garantir uma interface responsiva e fácil de usar.
+- **Relevante:** Uma interface de usuário eficiente é crucial para a adoção e satisfação do usuário com a aplicação.
+- **Temporal:** Completar o desenvolvimento da interface do usuário dentro de 4 semanas.
+
+## Objetivo 2: Funcionalidades de Tarefas
+
+- **Específico:** Implementar funcionalidades que permitam aos usuários adicionar, editar, excluir e marcar tarefas como concluídas.
+- **Mensurável:** As funcionalidades devem estar 100% operacionais e sem bugs críticos, com uma cobertura de testes automatizados de 85%.
+- **Atingível:** Utilizar bibliotecas e APIs disponíveis para facilitar a implementação, como a API do Local Storage para persistência.
+- **Relevante:** Essas funcionalidades são essenciais para que a aplicação atenda ao propósito de gerenciar tarefas.
+- **Temporal:** Implementar e testar essas funcionalidades em 6 semanas.
+
+## Objetivo 3: Persistência de Dados
+
+- **Específico:** Implementar um sistema para salvar e carregar tarefas utilizando um banco de dados ou Local Storage.
+- **Mensurável:** As tarefas devem ser salvas e recuperadas corretamente, com uma taxa de sucesso de 95% em testes de persistência.
+- **Atingível:** Escolher uma solução de armazenamento adequada (como IndexedDB para maior complexidade ou Local Storage para simplicidade).
+- **Relevante:** A persistência de dados é fundamental para que os usuários possam acessar suas tarefas após fechar e reabrir a aplicação.
+- **Temporal:** Completar a implementação do sistema de persistência em 3 semanas após o desenvolvimento das funcionalidades básicas.
+
+## Objetivo 4: Testes e Depuração
+
+- **Específico:** Conduzir testes completos da aplicação para garantir a funcionalidade e a correção de bugs.
+- **Mensurável:** Realizar testes manuais e automatizados para garantir que pelo menos 95% dos casos de uso principais funcionem corretamente.
+- **Atingível:** Utilizar ferramentas de testes como Jest para JavaScript e Cypress para testes end-to-end.
+- **Relevante:** Garantir que a aplicação esteja livre de bugs críticos e funcione conforme o esperado é essencial para a satisfação do usuário.
+- **Temporal:** Completar todos os testes e correções de bugs em 2 semanas antes do lançamento.
+
+## Objetivo 5: Lançamento e Feedback
+
+- **Específico:** Lançar a versão beta da aplicação para um grupo de usuários e coletar feedback.
+- **Mensurável:** Obter feedback de pelo menos 50 usuários e analisar suas sugestões para melhorias.
+- **Atingível:** Utilizar ferramentas de coleta de feedback e análises para avaliar a aceitação da aplicação.
+- **Relevante:** O feedback dos usuários ajudará a identificar áreas de melhoria e garantir que a aplicação atenda às necessidades do público-alvo.
+- **Temporal:** Lançar a versão beta e começar a coleta de feedback dentro de 8 semanas após o início do projeto.
+

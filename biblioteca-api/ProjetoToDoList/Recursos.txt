@@ -1,0 +1,53 @@
+# Análise de Recursos para o Projeto Web de To-Do List
+
+Esta análise de recursos identifica e detalha todos os recursos necessários para a execução bem-sucedida do projeto web de To-Do List.
+
+## Recursos Humanos
+
+| **Função**               | **Descrição**                              | **Número de Pessoas** | **Responsabilidades**                                 | **Requisitos**                               |
+|--------------------------|--------------------------------------------|-----------------------|-----------------------------------------------------|---------------------------------------------|
+| Gerente de Projeto       | Coordena todas as fases do projeto          | 1                     | Planejamento, gestão de equipe, acompanhamento de progresso | Experiência em gestão de projetos          |
+| Desenvolvedor Front-End  | Implementa a interface do usuário           | 2                     | Codificação da UI, integração com APIs              | Conhecimento em HTML, CSS, JavaScript      |
+| Desenvolvedor Back-End   | Gerencia a lógica de aplicação e banco de dados | 1                     | Implementação da lógica de backend, persistência de dados | Conhecimento em Node.js ou outro backend, banco de dados |
+| Designer de UI/UX        | Cria o design da interface e experiência do usuário | 1                     | Design da interface, criação de wireframes e protótipos | Experiência em design e ferramentas de prototipagem |
+| Testador/QA              | Testa a aplicação para identificar bugs      | 1                     | Execução de testes manuais e automatizados          | Experiência em testes de software           |
+| Especialista em Segurança| Garante a segurança da aplicação            | 1                     | Implementação de medidas de segurança, auditorias     | Conhecimento em segurança web               |
+
+## Recursos Tecnológicos
+
+| **Recurso**              | **Descrição**                               | **Justificativa**                              | **Custo**         | **Fornecedor/Plataforma** |
+|--------------------------|---------------------------------------------|------------------------------------------------|-------------------|---------------------------|
+| Ambiente de Desenvolvimento | IDEs e ferramentas de desenvolvimento        | Necessário para codificação e testes          | $200              | VS Code, WebStorm         |
+| Framework Front-End      | Biblioteca ou framework para a interface     | Facilita a criação de uma UI responsiva       | $0                | React, Vue.js             |
+| Framework Back-End       | Biblioteca ou framework para o backend       | Suporte à lógica de servidor e APIs            | $0                | Express.js, Django        |
+| Banco de Dados           | Sistema de gerenciamento de banco de dados   | Armazenamento de dados persistentes             | $100              | MongoDB, PostgreSQL       |
+| Ferramenta de Testes     | Ferramenta para automação e execução de testes | Garante a qualidade e funcionalidade do software | $50               | Jest, Cypress             |
+| Serviço de Hospedagem    | Plataforma para hospedar a aplicação         | Necessário para o lançamento da aplicação       | $150/ano          | AWS, Heroku               |
+| Sistema de Controle de Versão | Ferramenta para gerenciamento de código       | Controle de versão e colaboração                | $0                | GitHub, GitLab            |
+
+## Recursos Financeiros
+
+| **Item**                 | **Descrição**                             | **Custo Estimado** | **Justificativa**                              |
+|--------------------------|-------------------------------------------|--------------------|------------------------------------------------|
+| Salários                 | Pagamentos para a equipe do projeto        | $10,000            | Salários dos desenvolvedores, designer, etc.   |
+| Licenças de Software     | Custos para ferramentas e software         | $500               | IDEs, frameworks pagos, ferramentas de design  |
+| Hospedagem e Infraestrutura | Custos de hospedagem e servidores          | $150               | Hospedagem web e manutenção de servidores     |
+| Treinamento e Certificações | Custo de treinamentos necessários           | $300               | Cursos e certificações para a equipe          |
+| Contingência             | Fundo para imprevistos                     | $500               | Reserva para despesas não planejadas         |
+
+## Cronograma de Recursos
+
+| **Recurso**              | **Data de Início** | **Data de Término** | **Status**    |
+|--------------------------|--------------------|---------------------|---------------|
+| Contratação da Equipe    | 01/09/2024         | 07/09/2024          | Concluído     |
+| Aquisição de Ferramentas | 01/09/2024         | 05/09/2024          | Concluído     |
+| Configuração de Ambiente | 06/09/2024         | 10/09/2024          | Em andamento  |
+| Desenvolvimento          | 11/09/2024         | 25/10/2024          | Pendente      |
+| Testes e Ajustes         | 26/10/2024         | 31/10/2024          | Pendente      |
+| Lançamento               | 01/11/2024         | 07/11/2024          | Pendente      |
+
+## Observações
+
+- **Orçamento Flexível:** É recomendável manter uma margem para imprevistos financeiros e ajustes nos recursos.
+- **Revisão Contínua:** Revisar e ajustar os recursos conforme necessário ao longo do projeto para garantir a adequação às necessidades emergentes.
+
