@@ -1,24 +1,17 @@
-//arquivo principal
-
 const express = require('express');
 const bodyParser = require('body-parser');
-const livroRoutes = require('./routes/livroRoutes');
+const livroRoutes = require('./routes/livrosRoutes');
+const cors = require('cors');
 require('dotenv').config();
-require('./config/database'); // Conectando ao banco de dados
-
+require('./config/database');
 
 const app = express();
 
-const cors = require('cors');
-
-// Middlewares
-app.use(express.json());
+// Middleware
+app.use(bodyParser.json());
 app.use(cors());
-
 
 // Rotas
 app.use('/livros', livroRoutes);
 
-
-// Exportando a aplicação configurada
 module.exports = app;
