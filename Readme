@@ -1,1 +1,7 @@
-1- arrumar o scrip.js, por este motivo não está funcionando o código. 
+1- dentro do arquivo gerenciamento em react devo escrever no terminal :
+npm start
+2- dentro do outro prejeto biblioteca- devo escrever no terminal :
+node server.js
+
+OBS!!
+Ira abrir a plicação sozinho. 
