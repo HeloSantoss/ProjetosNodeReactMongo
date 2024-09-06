@@ -5,3 +5,17 @@ node server.js
 
 OBS!!
 Ira abrir a plicação sozinho. 
+
+passo a passo:
+.env.local
+
+DATABASE //localhost:27017/todo-app-mvc2
+
+1- mkdir utils
+dbConnect.js
+import moongose
+
+2- mkdir models
+3- mkdir controllers
+
+criar nome da da tarefa e a descrição da tarefa
